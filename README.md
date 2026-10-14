@@ -35,8 +35,6 @@ Vibe Coding ｜ AI ｜ Python · HTML · Rust
 
 如果我的项目帮到了你，欢迎请我喝一杯奶茶 ☕
 
-<!-- 把下面这行替换成你的爱发电 / Ko-fi / 收款码图片 -->
-[![请我喝奶茶](<img width="504" height="483" alt="微信图片_20261014132252_3_11" src="https://github.com/user-attachments/assets/e672c7d2-0c3a-46d1-af1a-147a6b021104" />
-)](#)
+<img src="https://github.com/user-attachments/assets/e672c7d2-0c3a-46d1-af1a-147a6b021104" width="250" />
 
 </div>
