@@ -1,16 +1,12 @@
 <!--
   使用说明（填完后可整段删除）：
-  1. 把本文件内容复制到仓库 XYZ921746/XYZ921746 的根目录，命名为 README.md；
-  2. 所有 <尖括号> 的地方替换成你自己的信息；
-  3. 不需要的小节整段删掉即可。
+  1. 所有 <尖括号> 的地方替换成你自己的信息；
+  2. 不需要的小节整段删掉即可。
 
-  仓库结构（网页与商店合并为同一个站点）：
-    README.md      —— 本文件，即个人主页
-    docs/          —— 个人网页，GitHub Pages 源目录
-    docs/store/    —— 插件商店，挂在网页的下级目录
-  对应地址：
-    网页：https://xyz921746.github.io/XYZ921746/
-    商店：https://xyz921746.github.io/XYZ921746/store/
+  本仓库（XYZ921746/XYZ921746）只放这一份 README，用作 GitHub 个人主页。
+  网页与插件商店在另一个仓库 XYZ921746/web：
+    网页：https://xyz921746.github.io/web/
+    商店：https://xyz921746.github.io/web/store/
 -->
 
 <h1 align="center"><你的名字> / <Your Name></h1>
@@ -20,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="https://xyz921746.github.io/XYZ921746/">项目网页</a>
+  <a href="https://xyz921746.github.io/web/">项目网页</a>
   ·
-  <a href="https://xyz921746.github.io/XYZ921746/store/">插件商店</a>
+  <a href="https://xyz921746.github.io/web/store/">插件商店</a>
   ·
   <a href="https://github.com/XYZ921746/ElainaChat-mod/releases/latest">下载</a>
 </p>
@@ -43,8 +39,8 @@
 <一句话说明：一个以插件（Mod）为核心的 AI 角色聊天应用，通过自带 API Key 直连服务商>
 
 - 源码：https://github.com/XYZ921746/ElainaChat-mod
-- 在线网页：https://xyz921746.github.io/XYZ921746/
-- 插件商店：https://xyz921746.github.io/XYZ921746/store/
+- 在线网页：https://xyz921746.github.io/web/
+- 插件商店：https://xyz921746.github.io/web/store/
 - 下载安装：https://github.com/XYZ921746/ElainaChat-mod/releases/latest
 
 ### <其他项目名>
@@ -81,7 +77,8 @@
 
 <p align="center">
   <small>
-    本主页与 <a href="https://xyz921746.github.io/XYZ921746/">项目网页</a>、
-    <a href="https://xyz921746.github.io/XYZ921746/store/">插件商店</a> 共用同一个仓库。
+    本主页与 <a href="https://xyz921746.github.io/web/">项目网页</a>、
+    <a href="https://xyz921746.github.io/web/store/">插件商店</a>
+    位于另一个仓库 <a href="https://github.com/XYZ921746/web">XYZ921746/web</a>。
   </small>
 </p>
